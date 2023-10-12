@@ -2,7 +2,7 @@
 title: Contact
 layout: page
 permalink: /contact
-published: false
+published: true
 ---
 
 ***Neoskin CLINIC***, 
